@@ -1,0 +1,31 @@
+.idp-setup-list {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+a {
+  text-decoration: none;
+}
+
+a.nostyle:link {
+  text-decoration: inherit;
+  color: inherit;
+  cursor: auto;
+}
+
+a.nostyle:visited {
+  text-decoration: inherit;
+  color: inherit;
+  cursor: auto;
+}
+
+.docs-setup-image {
+  width: 100%;
+  max-height: 500px;
+}
+
+.docs-setup-image-long-height {
+  width: 100%;
+  max-height: 800px;
+}

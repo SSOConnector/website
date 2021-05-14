@@ -1,0 +1,28 @@
+@import "../../App.scss";
+
+.features-block {
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1000px;
+  flex-direction: row;
+}
+
+@media (max-width: 800px) {
+  .features-block {
+    flex-direction: column;
+  }
+}
+
+.feature-container {
+  background-color: $backgroudLightBlue;
+}
+
+.features-heading {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 40px;
+  font-weight: 400;
+  margin-top: 0px;
+}

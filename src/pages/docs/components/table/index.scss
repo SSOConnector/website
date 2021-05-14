@@ -1,0 +1,19 @@
+table, td, th {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.table-content {
+  margin-top: 10px;
+}
+
+.table-name {
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}

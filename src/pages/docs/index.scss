@@ -1,0 +1,33 @@
+.docs-heading {
+  text-align: center;
+  padding-top: 40px;
+}
+
+.docs-menu {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.docs-get-started {
+  text-align: center;
+}
+
+@media (max-width: 1000px) {
+  .docs-menu-item {
+    width: 100%;
+  }
+}
+
+.sticky-footer-docs {
+  width: 100%;
+}
+
+@media (min-height: 650px) and (min-width: 1000px) {
+
+  .sticky-footer-docs {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+}

@@ -1,0 +1,21 @@
+@import "../../../../App.scss";
+
+.code-options {
+  display: flex;
+  padding-bottom: 20px;
+}
+
+.code-option {
+  padding: 15px;
+  font-weight: bold;
+}
+
+.active-language {
+  color: $backgroudDarkBlue;
+  border-bottom: 3px solid $backgroudDarkBlue;
+}
+
+.code-option:hover {
+  color: $backgroudDarkBlue;
+  border-bottom: 3px solid $backgroudDarkBlue;
+}

@@ -1,0 +1,46 @@
+
+
+.feature-item {
+  height: auto;
+  width: 300px;
+  border-radius: 10px;
+  background-color: white;
+  margin: 40px;
+  padding: 20px;
+  box-shadow: 5px 5px 10px 0px grey;
+}
+
+.feature-heading {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.feature-content {
+  text-align: center;
+}
+
+
+@media (max-width: 800px) {
+  .feature-item {
+    width: auto;
+  }
+}
+
+// a {
+//   text-decoration: none;
+//   color: white;
+// }
+
+// a.nostyle:link {
+//   text-decoration: inherit;
+//   color: inherit;
+//   cursor: auto;
+// }
+
+// a.nostyle:visited {
+//   text-decoration: inherit;
+//   color: inherit;
+//   cursor: auto;
+// }

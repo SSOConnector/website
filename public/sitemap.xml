@@ -1,0 +1,32 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://www.ssoconnector.com/</loc>
+  </url>
+  <url>
+    <loc>https://www.ssoconnector.com/docs</loc>
+  </url>
+  <url>
+    <loc>https://www.ssoconnector.com/docs/setup/okta</loc>
+  </url>
+  <url>
+    <loc>https://www.ssoconnector.com/docs/setup/onelogin</loc>
+  </url>
+  <url>
+    <loc>https://www.ssoconnector.com/docs/guide</loc>
+  </url>
+  <url>
+    <loc>https://www.ssoconnector.com/docs/guide/complete-sso-setup</loc>
+  </url>
+  <url>
+    <loc>https://www.ssoconnector.com/docs/guide/client-onboarding-automation</loc>
+  </url>
+  <url>
+    <loc>https://www.ssoconnector.com/docs/guide/getting-started-saml</loc>
+  </url>
+  <url>
+    <loc>https://www.ssoconnector.com/docs/api</loc>
+  </url>
+    <url>
+    <loc>https://www.ssoconnector.com/docs/references</loc>
+  </url>
+</urlset>
